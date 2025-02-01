@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "FoolQuantBot Trading Metrics",
+    "panels": [
+      { "type": "graph", "title": "Execution Latency", "targets": [{"expr": "order_latency_ms"}] },
+      { "type": "graph", "title": "Sharpe Ratio", "targets": [{"expr": "strategy_sharpe"}] },
+      { "type": "graph", "title": "Max Drawdown", "targets": [{"expr": "max_drawdown"}] }
+    ]
+  }
+}

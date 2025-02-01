@@ -1,0 +1,13 @@
+?? FoolQuantBot2 Verification Report - 02/02/2025 01:43:14
+
+[?] Exists: core/autoheal
+[?] Exists: core/onboarding
+[?] Exists: core/quantvault
+[?] Exists: core/ai/model_governor.py
+[?] Exists: infrastructure/prometheus
+[?] Exists: infrastructure/grafana
+[?] Exists: scripts/deploy.sh
+[?] Exists: scripts/rotate_keys.py
+[?] Exists: tests/chaos
+[?] Exists: docker/docker-compose.yml
+[?] Exists: docker/Dockerfile
