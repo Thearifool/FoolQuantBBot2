@@ -1,0 +1,4 @@
+﻿mfa_tiers:
+  low: 0
+  mid: 10000
+  high: 50000

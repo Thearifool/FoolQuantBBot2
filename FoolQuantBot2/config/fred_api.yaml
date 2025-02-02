@@ -1,0 +1,3 @@
+﻿fred_api:
+  endpoint: "https://api.stlouisfed.org/fred/series/observations"
+  key: "your-fred-api-key"
