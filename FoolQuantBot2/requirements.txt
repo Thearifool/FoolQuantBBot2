@@ -1,6 +1,0 @@
-﻿numpy
-requests
-asyncio
-ccxt
-pyotp
-tensorflow
