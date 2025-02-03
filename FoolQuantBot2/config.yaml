@@ -1,0 +1,7 @@
+﻿api_keys:
+  binance: "your-binance-api-key"
+  okx: "your-okx-api-key"
+
+risk_management:
+  max_drawdown: 0.2
+  position_sizing: dynamic
